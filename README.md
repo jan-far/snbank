@@ -5,7 +5,7 @@ This is a simple Banking system which reads Files to confirm staff authorization
 
 ## Usage
 
-**NOTE**: Ensure you have the customer.txt and the staff.yxy file in the same directory as the snBank.py.
+**NOTE**: Ensure you have the customer.txt and the staff.txt file in the same directory as the snBank.py.
 
 Open the snBank.py code... run it
 On running the code, a welcome oage is displayed
