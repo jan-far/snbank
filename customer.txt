@@ -1,0 +1,41 @@
+Account Name: farouk
+Opening Balance: $0.0
+Account Type: Savings Account
+Account Email: ligali@gmail.com
+Account Number: 0224445321
+
+Account Name: chucks
+Opening Balance: $50000
+Account Type: Current Account
+Account Email: faruk@gmail.com
+Account Number: 0273427611
+
+Account Name: oluwa
+Opening Balance: $0.0
+Account Type: Savings Account
+Account Email: flo@gmail.com
+Account Number: 0232757184
+
+Account Name: obianuju
+Opening Balance: $40404
+Account Type: Savings Account
+Account Email: girl@gmail.com
+Account Number: 0255263969
+
+Account Name: fatimah
+Opening Balance: $500404
+Account Type: Savings Account
+Account Email: atimah@gmail.com
+Account Number: 0223575627
+
+Account Name: farouk
+Opening Balance: $0.0
+Account Type: Current Account Account
+Account Email: ligaals@gmail.com
+Account Number: 0246934630
+
+Account Name: samiat
+Opening Balance: $12345
+Account Type: Savings Account Account
+Account Email: sda
+Account Number: 0265773519

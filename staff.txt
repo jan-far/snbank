@@ -1,0 +1,9 @@
+username: farouk
+password: 12345678
+email: farouk@gmail.com
+full name: farouk ligali
+
+username: victor
+password: 123456789
+email: victor@gmail.com
+full name: victor chukudi
