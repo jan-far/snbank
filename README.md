@@ -42,4 +42,13 @@ From the above options, Choose a number corresponding to what you'll like to do
     "3" To logout from your current login session and back to the staff login page.
 ```
 
-Back at the satff login page, option "2" terminate code.
+if "3" was chosen to LOGOUT, you get sent back to the Welcome page.
+On the welcome page
+```
+      Welcome to snBank
+        1 Staff login
+        2 Close app
+ ```
+
+ Choosing "2" will terminate the code. 
+ To access again to test other features, you need to RE-RUN the code.
